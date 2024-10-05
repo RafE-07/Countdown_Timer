@@ -26,10 +26,15 @@ This is a simple **Python Countdown Timer** program that allows you to enter a s
 ## Example
 
 ENTER TIME IN SECONDS : 120 
+
 00:02:00 
+
 00:01:59 
+
 ...
+
 00:00:01 
+
  
 Time's UP !!
 
