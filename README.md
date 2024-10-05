@@ -1,4 +1,4 @@
-# Countdown Timer ⏳
+# Countdown Timer 
 
 This is a simple **Python Countdown Timer** program that allows you to enter a specific duration in seconds and then displays the time remaining in hours, minutes, and seconds. Once the time is up, the program prints a message indicating that the time is over.
 
